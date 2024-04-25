@@ -1,18 +1,61 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@lambrioanpm/odio-nulla-recusandae",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "LambrioA",
   "license": "MIT",
+  "dependencies": {
+    "@crabas0npm/accusamus-laudantium-veniam-veniam": "^1.0.0",
+    "@lambrioanpm/aspernatur-commodi-magni": "^1.0.0",
+    "@lambrioanpm/deleniti-similique-repellendus": "^1.0.0",
+    "@lambrioanpm/error-numquam-accusantium": "^1.0.0",
+    "@lambrioanpm/fuga-pariatur-nostrum": "^1.0.0",
+    "@lambrioanpm/id-id-molestiae": "^1.0.0",
+    "@lambrioanpm/ipsam-vitae-incidunt": "^1.0.0",
+    "@lambrioanpm/iusto-vero-quae": "^1.0.0",
+    "@lambrioanpm/magni-possimus-reprehenderit": "^1.0.0",
+    "@lambrioanpm/perspiciatis-temporibus-ad": "^1.0.0",
+    "@lambrioanpm/ratione-eveniet-similique": "^1.0.0",
+    "@lambrioanpm/tenetur-aut-fugiat": "^1.0.0",
+    "@wemnyelezxnpm/tempora-accusantium-quis-animi": "^1.0.0"
+  },
+  "keywords": [
+    "bcrypt",
+    "sort",
+    "concurrency",
+    "ES2021",
+    "events",
+    "trimEnd",
+    "react animation",
+    "matchAll",
+    "superagent",
+    "RFC-6455",
+    "classnames",
+    "ES2018",
+    "ansi",
+    "isConcatSpreadable",
+    "minimal",
+    "pose",
+    "Uint16Array",
+    "three",
+    "fp",
+    "collection.es6",
+    "api",
+    "findup",
+    "tslib",
+    "contains",
+    "ender",
+    "number",
+    "inspect"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/lambrioanpm/odio-nulla-recusandae.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/lambrioanpm/odio-nulla-recusandae/#readme",
+  "bugs": {
+    "url": "https://github.com/lambrioanpm/odio-nulla-recusandae/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
